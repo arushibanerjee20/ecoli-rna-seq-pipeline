@@ -1,0 +1,26 @@
+# Raw sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Large/generated outputs
+*.csv
+*.tsv
+*.txt
+
+# R files generated automatically
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS/editor files
+.DS_Store
