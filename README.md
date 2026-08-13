@@ -26,3 +26,6 @@ Count matrix construction
 DESeq2 differential expression
    ↓
 Volcano plot
+
+
+This repository documents the complete workflow from sequencing data acquisition through differential expression analysis.
